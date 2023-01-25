@@ -2,7 +2,7 @@
 
 # Introduction
 
-This doc describes the React application that is building a search functionality. We will follow its implementation accross the various locations so you can understand how the different parts create the full picture
+This doc describes the React application that is building a search functionality. Follow its implementation so you can understand how the different parts create the full picture.
 
 # API
 
